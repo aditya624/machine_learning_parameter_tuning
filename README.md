@@ -10,3 +10,4 @@ to show you how to tune the parameters of your models.
 I needed to compress the data-file since it was to big to upload it to github.
 Please unpack the file into the data folder to get the script working without any changes.
 
+Check out: http://www.coding-maniac.com for the video and further explanations.
